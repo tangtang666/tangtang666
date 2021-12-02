@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Mr.Tang's github stats](https://github-readme-stats.vercel.app/api?username=tangtang666&count_private=true&include_all_commits=true)
 
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=tangtang666)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=tangtang666)](https://github.com/anuraghazra/github-readme-stats&hide=javascript,html))
 
 
 <!--
